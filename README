@@ -1,7 +1,7 @@
-ABOUT THE PROJECT :
-Once again, a project made for learning python. 
-Its a text editor, with very basic functionalities. A very light-weight text editor. In a few days, I aim to make it a python IDE.
-Thanks to Tkinter API and java2s tutorials.
+ABOUT:
+WriteOn is a basic, lightweight command-line text-editor designed to provide as much functionality from the keyboard alone as possible.
 
-HOW TO USE:
-python Editor.py <filename>
+Thanks to narendran for providing the base on which to build WriteOn.
+
+HOW TO RUN:
+python WriteOn.py <filename>
